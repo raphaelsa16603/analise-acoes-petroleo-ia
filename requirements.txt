@@ -1,0 +1,11 @@
+yfinance
+pandas
+scikit-learn
+requests
+beautifulsoup4
+lxml
+vaderSentiment
+numpy
+python-dotenv
+openpyxl
+streamlit
