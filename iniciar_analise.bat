@@ -21,7 +21,7 @@ ECHO.
 REM --- Passo 2: Executar o script de analise de dados ---
 REM !!! ATENCAO: Verifique se o nome do arquivo Python abaixo esta correto !!!
 ECHO [2/3] Executando o script de analise com IA para atualizar os dados...
-python analise_acoes_petroleo-006.py
+python analise_acoes_petroleo.py
 ECHO.
 ECHO Analise de dados concluida!
 ECHO.

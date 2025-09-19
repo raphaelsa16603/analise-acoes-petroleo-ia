@@ -10,7 +10,7 @@ Este projeto realiza **análise preditiva** e **análise de sentimento de notíc
 
 ## 📂 Estrutura do Projeto
 ```
-├── analise_acoes_petroleo-006.py   # Script principal de análise
+├── analise_acoes_petroleo.py   # Script principal de análise
 ├── dashboard_analise.py            # Dashboard interativo (Streamlit)
 ├── iniciar_analise.bat             # Script Windows para iniciar análise
 ├── requirements.txt                # Dependências do projeto
@@ -55,7 +55,7 @@ O arquivo `.env` **não deve ser versionado** no GitHub. O repositório já deve
 
 ### Rodar a análise das ações
 ```bash
-python analise_acoes_petroleo-006.py
+python analise_acoes_petroleo.py
 ```
 
 Isso irá gerar:
